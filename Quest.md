@@ -96,3 +96,61 @@ Ex) 모르는 것과 아는 것 -> 몰랐는데 알게된 것, 아는 척하는 
 - 제일 먹고 싶은 음식 먹고 인증샷 찍어서 올리기
 
 </details>
+
+
+ <details>
+        <summary>수행 과정 및 결과</summary>
+        <details>
+            <summary>1주차</summary>
+            <details>
+                <summary>J132_서정범</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li><strong>커피 한 잔을 마시면서 나는 어떤 개발자가 되고 싶은지 고민하기</strong></li>
+                    <li>바쁜 와중에 잠시 휴식을 취하면서 나아가고자 하는 방향에 대해서 생각해보면 좋을 것 같아요.</li>
+                </ul>
+            </details>
+            <details>
+                <summary>J183_이석규</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li>산책 중 가장 마음에 들었던 순간 사진 찍어서 올리기</li>
+                    <li>정신건강과 육체건강을 다 챙길 수 있을 것 같습니다.</li>
+                </ul>
+            </details>
+            <details>
+                <summary>J213_장서윤</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li><strong>일주일 동안 아무것도 안 해도 된다면, 어디를 여행가고 싶은지와 이유를 적어주세요</strong></li>
+                    <li>챌린지 기간동안 바빠서 다른 생각을 할 여유가 없어졌는데, 고민해보는 시간을 가져보고 싶어요!</li>
+                </ul>
+            </details>
+            <details>
+                <summary>K018_김희준</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li><strong>커피 한 잔을 마시면서 나는 어떤 개발자가 되고 싶은지 고민하기</strong></li>
+                    <li>어떤 개발자로 성장하고 싶은지 이번 챌린지를 기회로 잘 정리해가고 싶은 마음에 선정하였습니다.</li>
+                </ul>
+            </details>
+            <details>
+                <summary>J031_김도훈</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li><strong>커피 한 잔을 마시면서 나는 어떤 개발자가 되고 싶은지 고민하기</strong></li>
+                    <li>챌린지 기간 동안 쫓기듯 미션을 수행했는데, 커피 한 잔의 여유가 필요한 것 같아요!</li>
+                    <li><strong>산책 중 가장 마음에 들었던 순간 사진 찍어서 올리기</strong></li>
+                    <li>평소 산책을 좋아해서 저녁에 산책 나갈 때마다 찍고 싶어요!</li>
+                </ul>
+            </details>
+            <details>
+                <summary>S021_문영균</summary>
+                <p><strong>퀘스트</strong></p>
+                <blockquote>
+                    노래 한 곡 들으며 저녁 메뉴 고민해서 올리기
+                </blockquote>
+                <p>이유: 어차피 매일 고민하는 저녁 모두와 공유하자!</p>
+            </details>
+        </details>
+    </details>
