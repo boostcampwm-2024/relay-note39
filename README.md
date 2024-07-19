@@ -4,8 +4,6 @@
     <img alt="스크린샷 2023-12-26 18 14 51" src="https://github.com/user-attachments/assets/9129ba79-cfc2-4167-8dbd-982fd8c09c2c">
 </div>
 
-## 릴레이 노트의 철학
-
 ### 🧘🏻 휴식
 
 ```swift
