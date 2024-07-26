@@ -1,7 +1,8 @@
  
 <details>
   <summary>해석공유</summary>
-    
+    <details>
+     <summary>1 주자</summary>
 ## **개발자 원칙**
 
 ### (1) 소스코드레벨에서 오류를 확인하자
@@ -73,9 +74,15 @@ Ex) 모르는 것과 아는 것 -> 몰랐는데 알게된 것, 아는 척하는 
 “애자일”이 틀린 것을 증명하는 예시가 아니라, ‘함께’하면 소통하는 방식이 잘못될 경우 오히려 성과가 떨어질 수도 있다는 의미임
 
 => 애자일 방식 도입을 설득하거나, 모르는 사람이 읽으면 좋은 책인 것 같음
+    </details>
+    
+    <details>
+     <summary>2 주자</summary>
+     
+    </details>
 </details>
 
-
+ 
 <details>
   <summary>퀘스트 목록</summary>
 
