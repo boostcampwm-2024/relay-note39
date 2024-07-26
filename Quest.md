@@ -169,11 +169,15 @@ Ex) 모르는 것과 아는 것 -> 몰랐는데 알게된 것, 아는 척하는 
                     노래 한 곡 들으며 저녁 메뉴 고민해서 올리기
                 </blockquote>
                 <p>이유: 어차피 매일 고민하는 저녁 모두와 공유하자!</p>
-              <img width="896" alt="image" src="https://github.com/user-attachments/assets/64f2e9e6-b909-48b6-bffb-9ac1d09c25d8"></br>
-              <img width="586" alt="image" src="https://github.com/user-attachments/assets/f990bebc-45ff-4aa5-9261-4c9b430a91fc"></br>
-              <img width="471" alt="image" src="https://github.com/user-attachments/assets/174e5b16-fc48-4e23-9e93-f6494995e53c"></br>
-              <img width="486" alt="image" src="https://github.com/user-attachments/assets/7607429a-ee06-4d39-b0a0-389c7dfb53d8"></br>
-
+                <img width="896" alt="image" src="https://github.com/user-attachments/assets/64f2e9e6-b909-48b6-bffb-9ac1d09c25d8"></br>
+                <img width="586" alt="image" src="https://github.com/user-attachments/assets/f990bebc-45ff-4aa5-9261-4c9b430a91fc"></br>
+                <img width="471" alt="image" src="https://github.com/user-attachments/assets/174e5b16-fc48-4e23-9e93-f6494995e53c"></br>
+                <img width="486" alt="image" src="https://github.com/user-attachments/assets/7607429a-ee06-4d39-b0a0-389c7dfb53d8"></br>
+                <p><strong>후기</strong></p>
+                <ul>
+                    <li>다른 사람들에게 알려줘야 하기때문에 좀 더 식사에 신경쓸 수 있게되어 좋았습니다.</li>
+                    <li>며칠 식사사진을 올리니 다른 분들도 사진을 올려주셔서 좋았습니다.</li>    
+                </ul>
             </details>
         </details>
-    </details>
+</details>
