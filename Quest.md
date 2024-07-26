@@ -365,3 +365,38 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             </details>
         </details>
 </details>
+
+
+
+
+ <details>
+        <summary>수행 과정 및 결과</summary>
+        <details>
+            <summary>2주차</summary>
+            <details>
+                <summary>S006_구병조</summary>
+                <p><strong>올림픽</strong></p>
+            </details>
+            <details>
+                <summary>K030_서건</summary>
+                <p><strong>척추요정</strong></p>
+            </details>
+            <details>
+                <summary>J100_박경희</summary>
+                <p><strong>노래</strong></p>
+            </details>
+            <details>
+                <summary>J222_정명기</summary>
+                <p><strong>산책</strong></p>
+            </details>
+            <details>
+                <summary>J277_허찬영</summary>
+                <p><strong>노래</strong></p>
+            </details>
+            <details>
+                <summary>J121_배승혁</summary>
+                <p><strong>노래</strong></p>
+            </details>
+        </details>
+</details>
+
