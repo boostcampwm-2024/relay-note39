@@ -364,13 +364,6 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
             </details>
         </details>
-</details>
-
-
-
-
- <details>
-        <summary>수행 과정 및 결과</summary>
         <details>
             <summary>2주차</summary>
             <details>
@@ -409,4 +402,5 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             </details>
         </details>
 </details>
+
 
