@@ -75,10 +75,8 @@ Ex) 모르는 것과 아는 것 -> 몰랐는데 알게된 것, 아는 척하는 
 
 => 애자일 방식 도입을 설득하거나, 모르는 사람이 읽으면 좋은 책인 것 같음
     </details>
-    
     <details>
-     <summary>2 주자</summary>
-     
+     <summary>2 주차</summary>
     </details>
 </details>
 
