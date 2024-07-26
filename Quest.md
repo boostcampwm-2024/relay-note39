@@ -395,7 +395,17 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             </details>
             <details>
                 <summary>J121_배승혁</summary>
-                <p><strong>노래</strong></p>
+                <p><strong>퀘스트</strong></p>
+                <blockquote>
+                    ### 노래 추천 🎧
+                </blockquote>
+                <p>이유: 학습에 바빠 여유없이 진행했던 것 같습니다. 음악도 들으면서 조금 여유를 가지고 학습하려고 합니다. </p>
+                <p><strong>수행 결과</strong></p>
+                <p><strong>후기</strong></p>
+                <ul>
+                    <li></li>
+                    <li></li>    
+                </ul>
             </details>
         </details>
 </details>
