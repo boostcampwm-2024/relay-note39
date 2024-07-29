@@ -394,10 +394,10 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </blockquote>
                 <p>이유: 학습에 바빠 여유없이 진행했던 것 같습니다. 음악도 들으면서 조금 여유를 가지고 학습하려고 합니다. </p>
                 <p><strong>수행 결과</strong></p>
+                  <img width="480" alt="image" src="https://github.com/user-attachments/assets/fe1cc9cd-65bd-4733-87e7-dd2d4554a6f1"></br>
                 <p><strong>후기</strong></p>
                 <ul>
-                    <li></li>
-                    <li></li>    
+                    <li>미션 해결을 위해 여러 학습 자료를 찾아보고 분석하기 앞서 잠시 노래도 찾아보고, 좋은 노래를 추천하며 다른 사람들과 소통할 수 있었습니다. 다른 사람이 올린 노래를 듣는 것도 좋은 것 같네요.</li>
                 </ul>
             </details>
         </details>
