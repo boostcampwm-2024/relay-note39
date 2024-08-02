@@ -401,7 +401,6 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             <details>
                 <summary>J277_허찬영</summary>
                 <p><strong>노래</strong></p>
-                ![image](https://gist.github.com/user-attachments/assets/d9e90e64-cc53-407f-897d-f2753acf932c)
             </details>
             <details>
                 <summary>J121_배승혁</summary>
