@@ -609,7 +609,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
             </details>
         </details>
-
+<details>
          <summary>3주차</summary>
             <details>
                 <summary>J011_고은태</summary>
@@ -655,6 +655,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
             </details>
         </details>
+  </details>
 </details>
 
 
