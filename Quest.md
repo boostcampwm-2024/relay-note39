@@ -392,6 +392,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             <details>
                 <summary>J100_박경희</summary>
                 <p><strong>노래</strong></p>
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/b896810d-f67a-4011-ad30-c3dee532ca88"></br>
             </details>
             <details>
                 <summary>J222_정명기</summary>
