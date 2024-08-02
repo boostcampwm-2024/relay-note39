@@ -396,7 +396,11 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
             </details>
             <details>
                 <summary>J222_정명기</summary>
-                <p><strong>산책</strong></p>
+                <p><strong>매일 아침 산책</strong></p>
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/c1ea9dad-73bc-41ff-b6c0-7a67f7946b38"></br>
+- 대구 수목원  
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/566b4041-6083-4685-aed5-7de709770858"></br>
+- 집 앞 공원    
             </details>
             <details>
                 <summary>J277_허찬영</summary>
