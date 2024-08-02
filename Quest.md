@@ -609,6 +609,52 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
             </details>
         </details>
+
+         <summary>3주차</summary>
+            <details>
+                <summary>J011_고은태</summary>
+                <p><strong>퀘스트</strong></p>
+                  <ul>
+                    <li><strong>코어 수면 시간 지키기 (7시간 30분) 🛌</strong></li>
+                </ul>
+            </details>
+            <details>
+                <summary>K030_박현준</summary>
+                <p><strong>퀘스트</strong></p>
+                    <ul>
+                    <li><strong>척추 요정 🧚</strong></li>
+                </ul>
+            </details>
+            <details>
+                <summary>K039_이지학</summary>
+                <p><strong>퀘스트</strong></p>
+                    <ul>
+                    <li><strong>산책 30분 🚶🚶‍♀️</strong></li>
+                </ul>
+            </details>
+            <details>
+                <summary>J125_백준원</summary>
+                <p><strong>퀘스트</strong></p>
+                    <ul>
+                    <li><strong>이번주의 진 명경기 (올림픽) 🏟️</strong></li>
+                </ul>
+            </details>
+            <details>
+                <summary>J234_정헤인</summary>
+                <p><strong>퀘스트</strong></p>
+                <ul>
+                    <li><strong>유튜브 영상추천 📽️</strong></li>
+                </ul>
+                <p><strong>수행 결과</strong></p>
+            </details>
+            <details>
+                <summary>J280_홍창현</summary>
+                <p><strong>퀘스트</strong></p>
+                                <ul>
+                    <li><strong>노래 추천 🎧 → 개발할 때 듣기 좋은 노래 추천🎧</strong></li>
+                </ul>
+            </details>
+        </details>
 </details>
 
 
