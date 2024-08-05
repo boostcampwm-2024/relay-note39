@@ -646,6 +646,9 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                     <li><strong>유튜브 영상추천 📽️</strong></li>
                 </ul>
                 <p><strong>수행 결과</strong></p>
+            <ul>
+             <li><img src="https://github.com/user-attachments/assets/0210eb37-755b-4308-920c-48534426cdea" /></li>
+            </ul>
             </details>
             <details>
                 <summary>J280_홍창현</summary>
