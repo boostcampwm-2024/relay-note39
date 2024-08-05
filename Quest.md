@@ -640,7 +640,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
             </details>
             <details>
-                <summary>J234_정헤인</summary>
+                <summary>J234_정혜인</summary>
                 <p><strong>퀘스트</strong></p>
                 <ul>
                     <li><strong>유튜브 영상추천 📽️</strong></li>
