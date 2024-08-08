@@ -638,6 +638,10 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                     <ul>
                     <li><strong>이번주의 진 명경기 (올림픽) 🏟️</strong></li>
                 </ul>
+                <p><strong>수행 결과</strong></p>
+               <ul>
+                <li><img src="https://github.com/user-attachments/assets/42e491e3-b9f5-473a-8fc3-35d2127a2d95" /></li>
+               </ul>
             </details>
             <details>
                 <summary>J234_정혜인</summary>
