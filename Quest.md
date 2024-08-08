@@ -648,6 +648,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 <p><strong>수행 결과</strong></p>
             <ul>
              <li><img src="https://github.com/user-attachments/assets/0210eb37-755b-4308-920c-48534426cdea" /></li>
+              <li><img src="https://github.com/user-attachments/assets/94f09cab-8875-4b9d-a1cf-be6dd4766006" /></li>
             </ul>
             </details>
             <details>
