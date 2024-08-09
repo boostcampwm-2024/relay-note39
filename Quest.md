@@ -619,7 +619,7 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                 </ul>
                 <p><strong>수행 결과</strong></p>
                <ul>
-                <li><img src="https://gist.github.com/user-attachments/assets/3d05bab5-4ef6-4bc4-84c1-0e198ba7c32a" /></li>
+                <li><img src="https://github.com/user-attachments/assets/8612b841-1fce-43ab-afd0-fd227c0e66ff" /></li>
                </ul>
             </details>
             <details>
