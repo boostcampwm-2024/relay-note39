@@ -617,6 +617,10 @@ cs공부를 더 열심히 해야겠다고 느꼈다.
                   <ul>
                     <li><strong>코어 수면 시간 지키기 (7시간 30분) 🛌</strong></li>
                 </ul>
+                <p><strong>수행 결과</strong></p>
+               <ul>
+                <li><img src="https://gist.github.com/user-attachments/assets/3d05bab5-4ef6-4bc4-84c1-0e198ba7c32a" /></li>
+               </ul>
             </details>
             <details>
                 <summary>K030_박현준</summary>
